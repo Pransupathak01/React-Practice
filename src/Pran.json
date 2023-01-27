@@ -1,0 +1,19 @@
+ [  
+    {
+        "id":"1",
+        "name":"pransu pathak",
+        "email":"pranpathak01@gmail.com",
+        "add":"Amarpur,sidhi"
+     },{
+        "id":"2",
+        "name":"surya verma",
+        "email":"suryaverma02@gmail.com",
+        "add":"churhat,sidhi"
+    },{
+        "id":"3",
+        "name":"atharv pathak",
+        "email":"atharvpathak09@gmail.com",
+        "add":"mamdar,sidhi"
+    } 
+]
+   
